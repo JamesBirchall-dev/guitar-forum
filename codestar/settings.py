@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['learn-guitar-blog.herokuapp.com']
+ALLOWED_HOSTS = ['learn-guitar-blog-11550618d550.herokuapp.com']
 
 
 # Application definition
